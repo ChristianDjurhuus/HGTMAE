@@ -1,0 +1,1 @@
+This directory contains the high resolution versions of embedding plots shown in our thesis "Large-Scale Complex Network Embeddings: Leveraging Graph Representation Learning To Predict Future Life Events.".

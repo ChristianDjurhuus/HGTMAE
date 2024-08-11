@@ -1,0 +1,23 @@
+name: hgn # Heterogeneous Graph Network
+
+channels:
+  - conda-forge
+  - pytorch
+  - dglteam
+
+dependencies:
+  - python=3.10
+  - pip=24.0
+  - pytorch
+  - pacmap
+  - dgl
+  - pip:
+    - numpy
+    - pandas
+    - jupyter
+    - matplotlib
+    - scipy
+    - networkx
+    - scikit-learn
+    - pyarrow
+    - seaborn

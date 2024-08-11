@@ -8,7 +8,7 @@ Please note that this repository contains a simplified version of our model. The
 
 **Important Notes:**
 
-- The embeddings generated from our thesis are available in the `figures` directory.
+- The embeddings generated from our thesis are available as high resolution images in the `figures` directory.
 - The toy version provided here is for demonstration purposes only and should not be regarded as a rigorous implementation. The results generated from this repository are intended to provide an impression of how the model can be trained, rather than accurate or high-performance embeddings.
 
 ## Prerequisites
@@ -50,7 +50,7 @@ This approach involves running the entire pipeline from scratch, starting with g
 3. **Inspect the Learned Embeddings:**
    You can explore the learned embeddings using the provided Jupyter notebook:
    ```bash
-   jupyter notebook imdb_analysis.ipynb
+   jupyter notebook notebooks/imdb_analysis.ipynb
    ```
    Remember to update the model paths to your saved checkpoints, especially if you trained the model from scratch. Also, adjust the model configurations in the notebook if you deviated from the default settings.
 

@@ -1,7 +1,17 @@
 # HGTMAE
 <p align="center">
-  <img src="figures/front_figures/high_res_plot_DISCO_KODE.png" alt="DISCO KODE Plot" width="45%" style="margin-right: 10px;">
-  <img src="figures/front_figures/high_res_plot_Q_BREDT_LOEN_BELOEB.png" alt="Q BREDT LOEN BELOEB Plot" width="45%">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="figures/front_figures/high_res_plot_DISCO_KODE.png" alt="DISCO KODE Plot" width="90%">
+        <br><strong>Job Type</strong>
+      </td>
+      <td align="center">
+        <img src="figures/front_figures/high_res_plot_Q_BREDT_LOEN_BELOEB.png" alt="Q BREDT LOEN BELOEB Plot" width="90%">
+        <br><strong>Income Level</strong>
+      </td>
+    </tr>
+  </table>
 </p>
 
 This repository provides an implementation of the Heterogeneous Graph Transformer Masked AutoEncoder (HGTMAE) model as described in our master's thesis, *"Large-Scale Complex Network Embeddings: Leveraging Graph Representation Learning To Predict Future Life Events."* 

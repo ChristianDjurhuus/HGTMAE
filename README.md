@@ -24,6 +24,7 @@ Please note that this repository contains a simplified version of our model. The
 
 - The embeddings generated from our thesis are available as high resolution images in the `figures` directory.
 - The toy version provided here is for demonstration purposes only and should not be regarded as a rigorous implementation. The results generated from this repository are intended to provide an impression of how the model can be trained, rather than accurate or high-performance embeddings.
+- This basic implementation is created to run on the cpu. Hence, it will be necessary to modify the Conda environment YAML file if GPU usage is intended.
 
 ## Prerequisites
 
